@@ -71,7 +71,7 @@ Essas análises ajudaram a selecionar as variáveis mais relevantes para treinar
 1. Clone este repositório:
 
 ```ruby
-git clone https://github.com/seuusuario/laptop-price-predictor.git
+git clone https://github.com/Mogutaa/Predicting-Laptop-Prices-Using-Machine-Learning.git
 ```
 2. Crie um ambiente virtual e instale as dependências:
 
