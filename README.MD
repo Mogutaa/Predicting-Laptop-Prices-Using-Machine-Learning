@@ -2,6 +2,7 @@
 
 Este projeto utiliza técnicas de Machine Learning para prever o preço de notebooks com base em suas especificações técnicas. A aplicação foi desenvolvida com Python, Streamlit e um modelo Random Forest treinado com dados ficticios.
 
+Projeto no Ar pelo streamlit 👉 `https://notebook-price-predictor.streamlit.app/`
 ---
 
 ## 📦 Funcionalidades
